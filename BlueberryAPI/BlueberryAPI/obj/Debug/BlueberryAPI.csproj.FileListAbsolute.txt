@@ -1,0 +1,4 @@
+C:\Users\explo\source\repos\BlueberryAPI\BlueberryAPI\obj\Debug\BlueberryAPI.csproj.AssemblyReference.cache
+C:\Users\explo\source\repos\BlueberryAPI\BlueberryAPI\obj\Debug\BlueberryAPI.Properties.Resources.resources
+C:\Users\explo\source\repos\BlueberryAPI\BlueberryAPI\obj\Debug\BlueberryAPI.csproj.GenerateResource.cache
+C:\Users\explo\source\repos\BlueberryAPI\BlueberryAPI\obj\Debug\BlueberryAPI.csproj.CoreCompileInputs.cache
